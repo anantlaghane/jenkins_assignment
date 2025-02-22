@@ -1,8 +1,8 @@
 # Do this assignment.
 >
-> Q.1 Task
-A)
-Write a shell script in IDE which will accept the 2 parameter 
+> Task 1
+>
+A)Write a shell script in IDE which will accept the 2 parameter 
 1. Student name 
    2.  City as input and display in the console.
 
@@ -26,3 +26,19 @@ Like
 4. Password input 
 5. Text
 6. File input
+
+>
+>Task 3
+>
+Create a jenkins job with 3 parameters 
+1.  Drop down parameter name "Indian_citizen" 
+Values - yes / no
+2. Age ( greater than 18)  drop down parameter - values 12-100
+3.  Eligible_for_voting - drop down parameter ( yes/no)
+
+This is a little difficult assignment.. take your time .  3rd parameter values should come dynamically based on the values selected for 1 and 2 parameters.
+
+Go through different types of jenkins parameters.
+Active choice para
+Active reference para
+Etc.
