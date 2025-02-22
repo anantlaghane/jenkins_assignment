@@ -1,4 +1,5 @@
-#Do this assignment.
+# Do this assignment.
+>
 A)
 Write a shell script in IDE which will accept the 2 parameter 
 1. Student name 
