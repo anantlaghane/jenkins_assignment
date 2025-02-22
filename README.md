@@ -1,6 +1,6 @@
 # Do this assignment.
 >
-> Q.1
+> Q.1 Task
 A)
 Write a shell script in IDE which will accept the 2 parameter 
 1. Student name 
@@ -16,7 +16,7 @@ C) create a free style project or pipeline in jenkins.  This jenkins job should 
 D) your jenkins job should accept these 2 values from the UI and call the script that you have written which you already pushed the branch.
 
 >
-Q.2
+> Task 2
 Create a Jenkins job which will accept the different type of inputs 
 Like 
 1. Staring
